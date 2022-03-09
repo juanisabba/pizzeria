@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/pizzeria/static/css/main.b69da365.css",
+    "main.js": "/pizzeria/static/js/main.58dac18e.js",
+    "static/js/483.7e50fa63.chunk.js": "/pizzeria/static/js/483.7e50fa63.chunk.js",
+    "static/media/pizza-promo.mp4": "/pizzeria/static/media/pizza-promo.0e25482f675ea6aac3a9.mp4",
+    "static/media/slider6.jpg": "/pizzeria/static/media/slider6.d69532b5f0211230042a.jpg",
+    "static/media/pizza2.jpg": "/pizzeria/static/media/pizza2.571624fdf2ffbba49e17.jpg",
+    "static/media/slider5.jpg": "/pizzeria/static/media/slider5.45ddf61dba5ff7a16ee2.jpg",
+    "static/media/salon.jpg": "/pizzeria/static/media/salon.0e9163e5fd2d961e0309.jpg",
+    "static/media/slider4.jpg": "/pizzeria/static/media/slider4.b2a9762d25fe2512fce2.jpg",
+    "static/media/logo.jpg": "/pizzeria/static/media/logo.8916eb77ca529ec2a024.jpg",
+    "static/media/slider1.jpg": "/pizzeria/static/media/slider1.843aaa9bec8e3497cb84.jpg",
+    "static/media/slider3.jpg": "/pizzeria/static/media/slider3.50dd36363876ff35ec4a.jpg",
+    "static/media/slider7.jpg": "/pizzeria/static/media/slider7.85eb25836602ca6f90bf.jpg",
+    "static/media/slider9.jpg": "/pizzeria/static/media/slider9.e31c346f36b01cbb40b4.jpg",
+    "static/media/slider2.jpg": "/pizzeria/static/media/slider2.a58d8f3e65f079492002.jpg",
+    "static/media/slider8.jpg": "/pizzeria/static/media/slider8.4d970321f15f3b539854.jpg",
+    "static/media/slider10.jpg": "/pizzeria/static/media/slider10.da7b095c4de923609016.jpg",
+    "index.html": "/pizzeria/index.html",
+    "main.b69da365.css.map": "/pizzeria/static/css/main.b69da365.css.map",
+    "main.58dac18e.js.map": "/pizzeria/static/js/main.58dac18e.js.map",
+    "483.7e50fa63.chunk.js.map": "/pizzeria/static/js/483.7e50fa63.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b69da365.css",
+    "static/js/main.58dac18e.js"
+  ]
+}
