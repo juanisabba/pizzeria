@@ -9,7 +9,6 @@ function Menu({setOpen}) {
       <li><a onClick={()=>setOpen(false)} href="#historia">Historia</a></li>
         <li><a onClick={()=>setOpen(false)} href="#galeria">Galería</a></li>
         <li><a onClick={()=>setOpen(false)} href="#nuestra-casa">Nuestra Casa</a></li>
-        <li><a onClick={()=>setOpen(false)} href="#como-llegar">Como Llegar</a></li>
       </ul>
       <div>
         <p className="menu__footer">The best pizza since 1999🍕</p>
