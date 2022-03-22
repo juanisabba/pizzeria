@@ -12,7 +12,6 @@ function Footer() {
         <li><a href="#historia">Historia</a></li>
         <li><a href="#galeria">Galería</a></li>
         <li><a href="#nuestra-casa">Nuestra Casa</a></li>
-        <li><a href="#como-llegar">Como Llegar</a></li>
       </ul>
       <div>
         <FontAwesomeIcon
