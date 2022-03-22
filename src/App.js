@@ -8,7 +8,6 @@ import Banner3 from "./components/Banner3";
 import Footer from "./components/Footer";
 import { Squash as Hamburger } from "hamburger-react";
 import Menu from "./components/Menu";
-import Maps from "./components/Maps";
 
 function App() {
   const [isOpen, setOpen] = useState(false);
@@ -39,7 +38,6 @@ function App() {
               <Banner2 />
               <Slider />
               <Banner3 />
-              <Maps />
               <Footer />
         </div>
       )}
